@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LettoBlog Favicon\n"
+"POT-Creation-Date: 2013-05-10 01:07+0200\n"
+"PO-Revision-Date: 2013-05-10 01:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: LettoBlog Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lettoblog-favicon.php:35 lettoblog-favicon.php:37 lettoblog-favicon.php:40
+msgid "Favicon"
+msgstr "Favicon"
+
+#: lettoblog-favicon.php:99 lettoblog-favicon.php:164
+msgid "Favicon extention should be .ico!"
+msgstr "Favicon uzantısı .ico olmalıdır!"
+
+#: lettoblog-favicon.php:112 lettoblog-favicon.php:175
+msgid "Options saved"
+msgstr "Değişiklikler Kaydedildi"
+
+#: lettoblog-favicon.php:125
+msgid "Favicon Settings"
+msgstr "Favicon Ayarları"
+
+#: lettoblog-favicon.php:132
+msgid "Favicon URL:"
+msgstr "Favicon URL:"
+
+#: lettoblog-favicon.php:133 lettoblog-favicon.php:195
+msgid "Favicon Upload"
+msgstr "Favicon Yükle"
+
+#: lettoblog-favicon.php:134 lettoblog-favicon.php:196
+msgid ""
+"Enter your favicon url (direct link).Example:<em>http://lettoblog.com/"
+"favicon.ico</em><br />Do not forget, refresh your browser to see changes."
+msgstr ""
+"Direkt favicon adresini giriniz.Örneğin <em>http://lettoblog.com/favicon."
+"ico</em><br />Değişiklikleri görmek için tarayıcınızı yenilemeyi unutmayınız."
+
+#: lettoblog-favicon.php:140
+msgid "Use gravatar image as favicon"
+msgstr "Gravatar görselimi favicon olarak kullan"
+
+#: lettoblog-favicon.php:141
+msgid "Gravatar e-mail:"
+msgstr "Gravatar e-mail"
+
+#: lettoblog-favicon.php:142
+msgid "If leave empty, admin email address would be used."
+msgstr "Eğer boş bırakırsanız site yöneticisinin email adresi kullanılacaktır."
+
+#: lettoblog-favicon.php:146 lettoblog-favicon.php:200
+msgid "Update"
+msgstr "Güncelle"
+
+#: lettoblog-favicon.php:183
+msgid "Network Favicon Settings"
+msgstr "Multisite için Favicon Ayarları"
+
+#: lettoblog-favicon.php:189
+msgid "Use this favicon for all sites"
+msgstr "Bu favicon'u tüm siteler için kullan"
+
+#: lettoblog-favicon.php:194
+msgid "Network Favicon URL:"
+msgstr "Multisite Favicon URL:"
