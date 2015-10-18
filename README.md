@@ -1,9 +1,12 @@
 # LettoBlog Favicon #
-**Contributors:** m_uysl,LettoBlog   
-**Tags:**  favicon,easy favicon,lettoblog,multisite favicon,gravatar,network,multisite  
-**Requires at least:** 3.0  
-**Tested up to:** 4.4  
-**Stable tag:** 1.3
+
+Contributors:  m_uysl,LettoBlog     
+Tags:  favicon,easy favicon,lettoblog,multisite favicon,gravatar,network,multisite    
+Requires at least: 3.0  
+Tested up to: 4.4
+Stable tag: 1.3
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
 The easiest and best way to put a favicon on your site.
 ## Description ##
