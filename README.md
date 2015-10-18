@@ -3,7 +3,7 @@
 **Tags:**  favicon,easy favicon,lettoblog,multisite favicon,gravatar,network,multisite  
 **Requires at least:** 3.0  
 **Tested up to:** 4.4  
-**Stable tag:** 1.2  
+**Stable tag:** 1.3
 
 The easiest and best way to put a favicon on your site.
 ## Description ##
