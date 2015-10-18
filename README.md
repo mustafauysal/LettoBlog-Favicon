@@ -3,8 +3,8 @@
 Contributors:  m_uysl,LettoBlog     
 Tags:  favicon,easy favicon,lettoblog,multisite favicon,gravatar,network,multisite    
 Requires at least: 3.0  
-Tested up to: 4.4
-Stable tag: 1.3
+Tested up to: 4.4  
+Stable tag: 1.3  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -34,12 +34,12 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
     - Yes, you can add your language file.
 *   Is it compatible with single wordpress installation?
 	- Yes. This plugin working perfectly on the single and multisite setup.
-## Screenshots ##
-###1. screenshot-1.png###
-[missing image]
 
-###2. screenshot-2.png###
-[missing image]
+## Screenshots
+
+1. screenshot-1.png
+2. screenshot-2.png
+
 
 ## Changelog ##
 
